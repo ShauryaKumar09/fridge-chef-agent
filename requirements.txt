@@ -1,0 +1,4 @@
+langchain
+langchain-core
+python-dotenv
+tavily-python
