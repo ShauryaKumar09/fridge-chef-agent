@@ -6,8 +6,7 @@ and milk") and it suggests a beginner-friendly, budget-conscious recipe with
 cooking instructions. The agent has access to a `web_search` tool (powered by
 [Tavily](https://tavily.com/)) so it can look things up while planning a dish.
 
-This is a learning project built while following a LangChain course — it's meant
-for experimentation, not production use.
+
 
 ## What's in here
 
